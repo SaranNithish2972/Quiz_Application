@@ -13,5 +13,7 @@ PHP: Server-side scripting for backend logic and database interactions.
 MySQL: A database management system for storing user data and quiz information.
 <h2>Output:</h2>
 <h3>Admin Side:</h3>
-
+https://github.com/SaranNithish2972/Quiz_Application/assets/86521131/17e178c0-90e6-4489-a22a-7b6ffc095f02
 <h3>User Side:</h3>
+https://github.com/SaranNithish2972/Quiz_Application/assets/86521131/266198aa-5b72-4aca-9e1c-9c42c118b17b
+
