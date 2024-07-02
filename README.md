@@ -1,7 +1,7 @@
-# Quiz_Application
+<h1>Quiz_Application</h1>
 This project is a comprehensive web application developed using HTML, CSS, JavaScript, PHP, and MySQL. The application includes functionalities for both administrators and users, ensuring a dynamic and interactive user experience.
 
-Features:
+<h2>Features:</h2><br>
 Admin Side:
 CRUD Operations: Administrators have full control over the content and users of the application. They can Create, Read, Update, and Delete records related to quizzes and user management.
 
