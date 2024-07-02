@@ -11,3 +11,7 @@ CSS: Style the web pages for a visually appealing layout.
 JavaScript: Enhance interactivity and provide a seamless user experience.
 PHP: Server-side scripting for backend logic and database interactions.
 MySQL: A database management system for storing user data and quiz information.
+<h2>Output:</h2>
+<h3>Admin Side:</h3>
+
+<h3>User Side:</h3>
