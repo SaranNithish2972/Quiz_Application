@@ -6,10 +6,10 @@ CRUD Operations: Administrators have full control over the content and users of 
 <h3>User Side:</h3>
 Quiz Taking: Users can participate in various quizzes designed and managed by the administrators.
 <h2>Technologies Used:</h2>
-HTML: Structure the content of the web pages.
-CSS: Style the web pages for a visually appealing layout.
-JavaScript: Enhance interactivity and provide a seamless user experience.
-PHP: Server-side scripting for backend logic and database interactions.
+HTML: Structure the content of the web pages.<br>
+CSS: Style the web pages for a visually appealing layout.<br>
+JavaScript: Enhance interactivity and provide a seamless user experience.<br>
+PHP: Server-side scripting for backend logic and database interactions.<br>
 MySQL: A database management system for storing user data and quiz information.
 <h2>Output:</h2>
 <h3>Admin Side:</h3>
